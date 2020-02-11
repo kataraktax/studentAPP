@@ -1,4 +1,4 @@
-package com.marek.student.dal.studentdal;
+package com.marek.student.dal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
